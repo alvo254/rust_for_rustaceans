@@ -1,0 +1,1 @@
+/home/alvo/Desktop/rust/rust_for_rustaceans/rustaceans/target/debug/rustaceans: /home/alvo/Desktop/rust/rust_for_rustaceans/rustaceans/src/main.rs /home/alvo/Desktop/rust/rust_for_rustaceans/rustaceans/src/movandcopy.rs

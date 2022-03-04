@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ff23afca1b33b747",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf7d9775a585bf1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Foundations/borrowing and lifetimes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "815c4676617f08a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeaa06aad16c989d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4e51d1e3fb1a0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "785b9fb3967f7465",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.00079345703125
+  },
+  "right": {
+    "id": "566ee0eb835b262d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb83c245e2516770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b879c79a2554b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Foundations/borrowing and lifetimes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bf7d9775a585bf1e",
+  "lastOpenFiles": [
+    "Foundations/borrowing and lifetimes.md",
+    "Foundations/Owenership.md",
+    "Foundations/memory.md"
+  ]
+}
